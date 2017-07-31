@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "Billy",
+    "description": "WebGoat"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Bob"
+  }
+}
